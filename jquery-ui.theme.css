@@ -63,7 +63,7 @@ html .ui-button.ui-state-disabled:active {
 	border: 1px solid #d8dcdf;
 	background: #eeeeee url("images/ui-bg_highlight-hard_100_eeeeee_1x100.png") 50% 50% repeat-x;
 	font-weight: bold;
-	color: #004276;
+	color: #666;
 }
 .ui-state-default a,
 .ui-state-default a:link,
@@ -72,7 +72,7 @@ a.ui-button,
 a:link.ui-button,
 a:visited.ui-button,
 .ui-button {
-	color: #004276;
+	color: #666;
 	text-decoration: none;
 }
 .ui-state-hover,
